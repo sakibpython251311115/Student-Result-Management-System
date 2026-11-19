@@ -1,7 +1,4 @@
-"""Student Result Management System
-A short CLI project: add students, enter marks, calculate GPA/grade,
-search, and view a ranked result sheet. Data is saved in students.json.
-"""
+
 import json
 import os
 
